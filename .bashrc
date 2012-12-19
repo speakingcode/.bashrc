@@ -1,5 +1,5 @@
-# Add nano as default editor
-export EDITOR=nano
+# Add vim as default editor
+export EDITOR=vim
 
 alias ls='ls --color=auto'
 [ ! "$UID" = "0" ] && archbey -c white
